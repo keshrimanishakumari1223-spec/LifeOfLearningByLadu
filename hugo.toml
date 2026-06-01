@@ -1,0 +1,42 @@
+baseURL = 'https://keshrimanishakumari1223-spec.github.io/LifeOfLearningByLadu/'
+locale = 'en-us'
+title = 'Life Of Learning By Ladu'
+theme = 'PaperMod'
+paginate = 5
+
+[params]
+  env = "production"
+  description = "A personal blog about learning, growth, and life experiences"
+  author = "Ladu"
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Welcome to Life Of Learning By Ladu 👋"
+  Content = "A space where I share my thoughts, learnings, and experiences."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/keshrimanishakumari1223-spec"
+
+[menu]
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
