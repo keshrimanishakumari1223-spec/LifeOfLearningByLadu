@@ -15,8 +15,8 @@ paginate = 5
   showCodeCopyButtons = true
 
 [params.homeInfoParams]
-  Title = "Welcome to Life Of Learning By Ladu 👋"
-  Content = "Hi, I'm Manisha Kumari Keshri (aka Ladu) — this is my space to share thoughts, learnings, and experiences."
+  Title = "Hey there! Welcome to my little corner of the internet 🦋✨"
+  Content = "I'm Manisha (aka Ladu) — dreamer, learner, and forever curious soul. Come hang out while I share my journey of growth, learning, and all things that make life beautiful 🍑💜"
 
 [[params.socialIcons]]
   name = "github"
