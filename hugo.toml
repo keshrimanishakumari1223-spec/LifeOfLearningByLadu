@@ -7,7 +7,7 @@ paginate = 5
 [params]
   env = "production"
   description = "A personal blog about learning, growth, and life experiences"
-  author = "Ladu"
+  author = "Manisha Kumari Keshri"
   showReadingTime = true
   showShareButtons = true
   showPostNavLinks = true
@@ -16,7 +16,7 @@ paginate = 5
 
 [params.homeInfoParams]
   Title = "Welcome to Life Of Learning By Ladu 👋"
-  Content = "A space where I share my thoughts, learnings, and experiences."
+  Content = "Hi, I'm Manisha Kumari Keshri (aka Ladu) — this is my space to share thoughts, learnings, and experiences."
 
 [[params.socialIcons]]
   name = "github"
